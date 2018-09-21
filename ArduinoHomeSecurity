@@ -199,4 +199,3 @@ void loop()
         createWebpage(defaultTitle, blueBackgroundColor);
    }
 }
-
